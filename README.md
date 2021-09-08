@@ -13,7 +13,7 @@ So first, don’t forget to download a ChromeDriver from right [here](https://ch
 ```
 python main.py
 ```
-Enter the URL
+### Enter the URL
 ```
 Enter the URL: https://www.youtube.com/watch?v=fx2Z5ZD_Rbo
 ```
